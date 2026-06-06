@@ -83,7 +83,7 @@ Cesar School — 2026 – presente
 
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/lucas-nascimento-405878377/](https://linkedin.com/in/seu-usuario)
-- 📧 Email: lucassmnasc7@email.com
+- 📧 Email: lucassmnasc7@gmail.com
 
 ---
 
