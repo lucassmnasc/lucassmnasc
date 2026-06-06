@@ -29,12 +29,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** na [Nome da Faculdade], com interesse em desenvolvimento de software, algoritmos e resolução de problemas. Gosto de transformar ideias em código funcional e estou sempre em busca de novos desafios.
+Sou estudante de **Ciência da Computação** na Cesar School, com interesse em desenvolvimento de software, algoritmos e resolução de problemas. Gosto de transformar ideias em código funcional e estou sempre em busca de novos desafios.
 
-- 📍 [Sua cidade], Brasil
-- 📚 Atualmente estudando: `[tecnologia/área atual]`
-- 🎯 Objetivo: `[ex: ingressar na área de backend / contribuir com open source / etc.]`
-- 🤝 Aberto a: colaborações, estágios e projetos
+- 📍 Jaboatão dos guararapes, Brasil
+
 
 ---
 
@@ -56,15 +54,8 @@ Sou estudante de **Ciência da Computação** na [Nome da Faculdade], com intere
 
 ---
 
-## 📂 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🔗 [Nome do Projeto 1](https://github.com/seu-usuario/projeto-1) | Breve descrição do que o projeto faz | `Python` `API REST` |
-| 🔗 [Nome do Projeto 2](https://github.com/seu-usuario/projeto-2) | Breve descrição do que o projeto faz | `Java` `OOP` |
-| 🔗 [Nome do Projeto 3](https://github.com/seu-usuario/projeto-3) | Breve descrição do que o projeto faz | `C` `Estrutura de Dados` |
 
-> 💡 Veja todos os projetos na aba [**Repositories**](https://github.com/seu-usuario?tab=repositories)
 
 ---
 
@@ -84,32 +75,16 @@ Sou estudante de **Ciência da Computação** na [Nome da Faculdade], com intere
 ## 🎓 Formação
 
 **Bacharelado em Ciência da Computação**
-[Nome da Faculdade] — [Ano de início] – presente
+Cesar School — 2026 – presente
 
-**Cursos complementares**
-- [Nome do curso] — [Plataforma] (Ano)
-- [Nome do curso] — [Plataforma] (Ano)
 
 ---
 
 ## 📫 Contato
 
-Fique à vontade para me chamar!
 
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- 📧 Email: seuemail@email.com
-- 🌐 Portfolio: [seu-portfolio.vercel.app](https://seu-portfolio.vercel.app)
+- 💼 LinkedIn: [https://www.linkedin.com/in/lucas-nascimento-405878377/](https://linkedin.com/in/seu-usuario)
+- 📧 Email: lucassmnasc7@email.com
 
 ---
 
-
-
-
-  
-
-
-
-
-
-
-⭐ Se algum projeto te ajudou, considere deixar uma estrela!
