@@ -7,7 +7,7 @@
   🎓 Estudante de Ciência da Computação  |  💻 Apaixonado por tecnologia  |  🚀 Sempre aprendendo
 
 
-
+![GIF](./057ab40c84702cd42efa82b911de8bdc.gif)
 
 
 
