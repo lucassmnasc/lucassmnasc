@@ -4,7 +4,7 @@
 
 
 
-  🎓 Estudante de Ciência da Computação  |  💻 Apaixonado por tecnologia  |  🚀 Sempre aprendendo
+  🎓 Estudante de Ciência da Computação  |
 
 
 ![GIF](./057ab40c84702cd42efa82b911de8bdc.gif)
@@ -52,8 +52,8 @@ Sou estudante de **Ciência da Computação** na Cesar School, com interesse em 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=vscode&logoColor=white)
 
+![GIF](./edward_elric.gif)
 ---
-
 
 
 
