@@ -64,8 +64,12 @@ Sou estudante de **Ciência da Computação** na Cesar School, com interesse em 
 
 
 
-  
-  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lucassmnasc&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmnasc&layout=compact&theme=tokyonight&locale=pt-br)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lucassmnasc&theme=tokyonight&locale=pt-br)
 
 
 
